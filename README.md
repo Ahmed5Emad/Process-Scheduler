@@ -1,6 +1,11 @@
-## Getting Started
+## Process scheduler
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A small app with UI to simulate process scheduling in OS using Java it uses : 
+1- FCFS
+2-SRT
+3-SJF
+4-RR
+5- Priority
 
 ## Folder Structure
 
